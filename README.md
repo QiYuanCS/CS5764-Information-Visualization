@@ -1,2 +1,2 @@
 # CS5764-Information-Visualization
-!(DashBoard.png)
+!(DashBoard-GCP.png)
