@@ -1,0 +1,16 @@
+dash
+Flask
+Flask-Compress
+itsdangerous
+Jinja2
+matplotlib
+numpy
+packaging
+pandas
+patsy
+pipreqs
+plotly
+scipy
+seaborn
+scikit-learn
+flask_caching
